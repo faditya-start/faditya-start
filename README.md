@@ -10,7 +10,7 @@ Mahasiswa sekaligus Software Engineer yang antusias mengembangkan solusi digital
 
 ## 📚 Tentang Saya
 Saat ini saya aktif sebagai mahasiswa sekaligus mengasah kemampuan software engineering melalui berbagai proyek dan pembelajaran mandiri. Saya percaya bahwa konsistensi adalah kunci, sehingga saya memiliki target pribadi:
-- **Setiap minggu:** Minimal satu kali jadi badminton
+- **Setiap minggu:** Minimal satu kali badminton
 - **Setiap dua minggu:** Minimal satu kali membuat atau mengembangkan proyek baru
 
 ## 🌱 Belum Ada Proyek Favorit?
