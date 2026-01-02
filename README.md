@@ -13,7 +13,7 @@ Saya gemar bereksperimen dengan teknologi terbaru dan membangun aplikasi yang da
 ---
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faditya-start&theme=dracula&locale=id)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faditya-start&theme=tokyonight)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=faditya-start&theme=onedark)
 
 ---
