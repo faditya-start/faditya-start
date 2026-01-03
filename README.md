@@ -68,26 +68,11 @@ Fokus saya adalah membangun sistem yang **scalable, maintainable, dan bermanfaat
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faditya-start&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faditya-start&layout=compact&hide_border=true&theme=tokyonight"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faditya-start&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
 
-  <br/>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faditya-start&theme=dracula&locale=id)](https://git.io/streak-stats)
-
-  <br/><br/>
+<br/><br/>
 
   <img src="https://github-profile-trophy.vercel.app/?username=faditya-start&theme=tokyonight&no-bg=true&no-frame=true&column=4"/>
-</div>
 
 ---
 
