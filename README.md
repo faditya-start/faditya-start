@@ -71,7 +71,6 @@ Fokus saya adalah membangun sistem yang **scalable, maintainable, dan bermanfaat
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faditya-start&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
 <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=faditya-start&theme=tokyonight&no-bg=true&no-frame=true&column=4"/>
 </div>
 ---
 
