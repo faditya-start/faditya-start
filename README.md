@@ -72,7 +72,6 @@ Fokus saya adalah membangun sistem yang **scalable, maintainable, dan bermanfaat
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faditya-start&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
 <br>
 </div>
----
 
 ## 🏷️ Tagline
 > **"Belajar, berinovasi, dan berkontribusi setiap hari.  
