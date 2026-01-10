@@ -21,7 +21,7 @@
 
 ### 🚀 Tentang Saya
 Saya adalah mahasiswa sekaligus **Software Engineer** yang antusias mengembangkan aplikasi modern berbasis web dan backend.  
-Fokus saya adalah membangun sistem yang **scalable, maintainable, dan bermanfaat** bagi banyak orang.
+Fokus saya adalah membangun sistem yang **scalable, maintainable, dan bermanfaat** bagi orang.
 
 ---
 
