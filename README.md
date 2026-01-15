@@ -29,32 +29,47 @@ Fokus saya adalah membangun sistem yang **scalable, maintainable, dan bermanfaat
 
 #### 🌐 Frontend Development
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45" />
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="45" />
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="45" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="45"/>
 </div>
 
 #### ⚙️ Backend Development
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="45" />
-  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="45" />
-  <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" height="45"/>
 </div>
 
 #### 🗄️ Database & Storage
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="45" />
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="45" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="45"/>
 </div>
 
 #### 🧰 DevOps & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45" />
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="45" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="45"/>
 </div>
 
 #### 🎨 Design & Other Tools
